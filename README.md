@@ -35,17 +35,6 @@ The `xlstm_time_architecture.tex` document provides a comprehensive guide coveri
 This document serves as a technical specification and theoretical reference for the xLSTMTime model. To view the formatted document, 
    compile `xlstm_time_architecture.tex` using a LaTeX distribution (e.g., TeX Live, MiKTeX).
 
-## Key Packages Used
-
-The LaTeX document utilizes several key packages, including:
-
-*   `amsmath`, `amssymb`, `amsfonts` (Mathematical typesetting)
-*   `listings` (Code formatting)
-*   `tikz` (Diagrams)
-*   `algorithm`, `algpseudocode` (Algorithm presentation)
-*   `hyperref` (Links and references)
-*   `xcolor` (Color definitions)
-
 ---
 
 *Author: David R Harmon, President of The Mapleseed Inc.*
